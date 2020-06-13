@@ -2,7 +2,7 @@ import React from 'react';
 
 class FormNumerology extends React.Component {
 
-  /*   handleSubmit = e => {
+   /*  handleSubmit = e => {
         e.preventDefault();
     }; */
 
@@ -16,7 +16,7 @@ class FormNumerology extends React.Component {
 
             <div>
                 <h1>Calculadora</h1>
-                <form>
+                <form onSubmit={this.props.handleSubmit}>
                     <div className="row">
                          <div className="col-6">
                             <div className="form-group">
@@ -43,7 +43,7 @@ class FormNumerology extends React.Component {
                             </div>
                          </div>
                     </div>
-                    <button type="button" className="btn btn-primary btn-lg btn-block"> Calcular </button>
+                    <button onClick={this.props.handleClick} className="btn btn-primary btn-lg btn-block"> Calcular </button>
                 </form>
             </div>
 

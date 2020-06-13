@@ -3,6 +3,7 @@ import React from 'react'
 import './styles/Home.css'
 import Navbar from '../components/NavBar'
 import Number from '../components/Number'
+import TablesDeficiencies from '../components/TablesDeficiencies'
 
 import FormNumerology from '../components/FormNumerology'
 
@@ -44,11 +45,15 @@ class Home extends React.Component {
                             <Number number="1" title="Camino de la vida" description="Se muestra / lo perciben: Generoso, amistoso y buen amigo. " />
                        </div>
                     </div>
+                    <div className="row">
+                        <div className="col">
+                            <h4>Carencias</h4>
+                            <TablesDeficiencies/>
+                        </div>
+                    </div>
                 </div>
             </div>
         )
-        
-        //<FormNumerology onChange={this.handleChange} formValues={this.state.form} />
     }
 }
 
