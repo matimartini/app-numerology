@@ -1,0 +1,72 @@
+{
+    "data": {
+        "nombre": "Matias Martini",
+        "fecha_nacimiento": "1996-08-31",
+        "camino_de_vida": 1,
+        "personalidad": {
+            "number": 9,
+            "description": "Se muestra / lo perciben: Generoso, amistoso y buen amigo. Con personalidad magnética pero a veces carente de fuerza. Simpático, romántico y encantador. "
+        },
+        "expresion": {
+            "number": 3,
+            "description": "Necesidad de contactos sociales. Sabe recibir y conservar muchos amigos, aunque estos en su mayoría sean superficiales, reales y verdaderos pocos. Es optimista por naturaleza, también cambiante, con picos de buen y mal humor. No le agrada la soledad, su medio ambiente lo influencia. Es profundo en sus sentimientos, el amor es importante en su vida. Puede casarse muy joven, como de avanzada edad, con marcada tendencia a quedarse solo. Si forma su hogar, sabrá cuidar de él, de su pareja y de sus hijos, dedicándose también a otros intereses.  Dispone de cierto talento que puede llevarlo al triunfo en diversas áreas, Comercio, editorial, publicidad, política, y cualquier tarea en que la vida lo coloque, destacándose en áreas que le contacten humanísticamente. El dinero es importante, por lo que representa materialmente, rara vez consigue una gran fortuna, porque malgasta, pudiendo perder así sus bienes. Le encanta viajar y comprar, siempre consigue vivir muy bien, disfrutando de la vida. "
+        },
+        "deseo_del_alma": {
+            "number": 3,
+            "description": "Desea auto-expresarse creativamente. A través de la palabra verbal o escrita. O bien por medio del arte. Desea vincularse, destacarse en sus relaciones.  Se autopercibe / se siente: Se ve como un niño. Jovial, entusiasta, optimista, gracioso, con sentido del humor. Con mente veloz. Gusta de la oratoria, la literatura o arte escénico. Por lo general, ama la sociedad, las fiestas y los amigos. Es muy ambicioso, independiente e intrépido. Como pensador profundo, puede adquirir conocimiento con facilidad. Rechaza lo minucioso y rutinario. Es intuitivo e inspirado. Puede dedicarse al arte, pues tiene gran dominio sobre los colores. Tiene tendencia a dispersar su talento. Ama a los niños y a los animalitos domésticos. En mujeres, desean ser madres desde pequeñas. En muchos casos, ellas han vivido un vínculo difícil con su madre y desean rectificar la función materna teniendo sus propios hijos. Deben saber que saben mejor lo que no deben hacer como madres, antes que que lo sí deben.  Necesita cultivar la tolerancia, la paciencia, la concentración y a no dispersar su talento. "
+        },
+        "meta_de_vida": {
+            "number": 4,
+            "description": "A partir de la mitad de la vida, se tornará más tranquilo, más práctico acerca de lo que desea. Será más constante y paciente. Para una segunda mitad de la vida, esta vibración garantiza un buen pasar económico en la vejez.  Si no pudo antes, ahora podrá concretar sus metas y poner en funcionamiento sus ideas, pero esto requerirá considerable esfuerzo. Su tenacidad de propósito más el hecho de que es simpático, ordenado y honrado, le ayudarán a fortalecer la base de su tiempo. Podrá volcarse hacia propósitos científicos o religiosos, pero serán de naturaleza ortodoxa y no nuevos puntos de vista. Se verá obligado a la contracción, pero el resultado será compensatorio.  Deberá evitar la estrechez de mente o ser dominante, imponer sus creencias. "
+        },
+        "carencias": {
+            "ListLack": [
+                {
+                    "Number": 1,
+                    "Exists": true,
+                    "Cant": 4
+                },
+                {
+                    "Number": 2,
+                    "Exists": true,
+                    "Cant": 2
+                },
+                {
+                    "Number": 3,
+                    "Exists": false,
+                    "Cant": 0
+                },
+                {
+                    "Number": 4,
+                    "Exists": true,
+                    "Cant": 2
+                },
+                {
+                    "Number": 5,
+                    "Exists": true,
+                    "Cant": 1
+                },
+                {
+                    "Number": 6,
+                    "Exists": false,
+                    "Cant": 0
+                },
+                {
+                    "Number": 7,
+                    "Exists": false,
+                    "Cant": 0
+                },
+                {
+                    "Number": 8,
+                    "Exists": false,
+                    "Cant": 0
+                },
+                {
+                    "Number": 9,
+                    "Exists": true,
+                    "Cant": 4
+                }
+            ]
+        }
+    }
+}
