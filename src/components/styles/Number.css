@@ -22,3 +22,56 @@
     width: 80px;
     height: 80px;
   }
+
+
+
+  .rc-course-card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    transition: box-shadow .4s ease;
+    border-radius: 12px;
+    background-color: #fff;
+    padding: 16px;
+    box-shadow: 0 0 16px 0 rgba(144,149,161,.15);
+    width: 100%;
+    justify-content: space-between;
+    border-left: 12px solid;
+    flex-direction: column;
+    display: flex;
+    height: 100%;
+    border-left-color:#8b5eaa
+}
+
+.rc-course-card__text-container {
+  flex-direction: column;
+  display: flex;
+}
+
+.rc-course-card__header {
+  justify-content: space-between;
+  margin-bottom: 16px;
+  align-items: center;
+  display: flex;
+  width: 100%;
+}
+
+.rc-course-card__label, .rc-course-card__soon {
+  color: #631b5d;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+.rc-course-card__title {
+  margin: 0 0 16px;
+  color: #373737;
+  font-weight: 700;
+  font-size: 2rem;
+  padding: 0;
+}
+
+.rc-course-card__description {
+  color: #5f6478;
+  font-size: 1.125rem;
+  padding: 0;
+  margin: 0;
+}
