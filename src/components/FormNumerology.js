@@ -115,7 +115,7 @@ class FormNumerology extends React.Component {
                             <div className="row">
                                 <div className="col margin-custom">
                                     <h4>Carencias</h4>
-                                    <TablesDeficiencies/>
+                                    <TablesDeficiencies carencias={this.state.data.data.carencias.ListLack}/>
                                 </div>
                             </div>
                         </div>
